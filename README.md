@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+### I am Haiquan, you can call me Patrick!
 
 👉check out my <a href="www.hzktb.com">personal website</a>
 
-<p>I am a full stack software engineer who is facinated with UX/UI designs. I love tweaking CSS styles and learn about CSS animations.</p>
+<p>I am a full stack software engineer who is facinated with UX/UI designs. I love tweaking CSS styles, learn about CSS animations, designing and building full stack applications!</p>
 <p>I am currently learning UX/UI designs, product management, Swift and Java at my freetime!</p>
 <h3>Some programming languages and frameworks I know:</h3>
 
