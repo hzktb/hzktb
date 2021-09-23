@@ -10,6 +10,10 @@
 ![languages and frameworks](https://user-images.githubusercontent.com/58833788/133368541-26034c0f-75ae-4632-9263-195a338edc89.png)
 
 ## Projects
+
+### Rejuvenating You - Diet Tracking App
+![fitness](https://user-images.githubusercontent.com/58833788/134576722-b4eac971-2c0d-4236-b08a-a2eb289b4358.gif)
+
 ###  Invoice Management Systtem
 ![invoiceManagement](https://user-images.githubusercontent.com/58833788/133365546-6f60e1e7-2885-43c8-b1d2-05f6164cba50.gif)
 
